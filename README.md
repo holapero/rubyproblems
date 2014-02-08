@@ -8,9 +8,9 @@ Given an array.
 Defien a method that will ....
 
 "return" to the console the "sum" of of all the elements.
-............................................................
-xtra credit....make your method handle a string gracefully. 
-//////////////////////////////////////////////////////////////
+
+xtra credit....make your method handle a string gracefully.
+
 
 2)
 
