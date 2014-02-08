@@ -28,7 +28,7 @@ def sum(arr)
     i = 0 
     result = 0 
     while i < arr.length do 
-        if arr[i] == "string"
+        if arr[i].class == String
             arr[i] = 0
         end
         result += arr[i]
